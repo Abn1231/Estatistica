@@ -1,5 +1,4 @@
 import java.lang.Math;
-import java.util.TreeMap;
 
 public class Estatistica {
     // Esse metodo acha o menor valor da lista de valores.
